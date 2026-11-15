@@ -4,7 +4,7 @@
 # Change a value here and the app changes with it.
 
 # How many days a new member can try Acme for free.
-FREE_TRIAL_DAYS = 14
+FREE_TRIAL_DAYS = 30
 
 # Our plans. Prices are in US dollars per month.
 PLANS = [
